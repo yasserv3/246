@@ -4,4 +4,4 @@ prefix=-
 game= 👑Minecraft👑
 stayinchannel=true
 songinstatus=true
-token=NTY3NDI5ODUyNTYzNTA1MTY1.XLW93w.htHqqDLShLEtw2RyOWn5IiVo_7o
+token=NTY3NDI5ODUyNTYzNTA1MTY1.XLXewg.YfHrkL9LicqQD144E9Xed1sPLnM
